@@ -1,7 +1,7 @@
 ## Hi there 👋
 🎓 Ai engineering student at IMTO University
 
-## 📍 Saint-Petersburg  
+📍 Saint-Petersburg  
 
 ## Сейчас изучаю 
 - Git 
