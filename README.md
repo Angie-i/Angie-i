@@ -1,4 +1,15 @@
 ## Hi there 👋
+🎓 Ai engineering student at IMTO University
+📍 Saint-Petersburg  
+
+## Сейчас изучаю 
+- Git (ветки, rebase, merge, конфликты)
+- Архитектуру вычислительных систем
+- Языки программирования (Python / C)
+- Машинное обучение и статистику
+
+
+GitHub profile is used for academic and personal development purposes
 
 <!--
 **Angie-i/Angie-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
