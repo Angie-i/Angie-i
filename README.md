@@ -1,12 +1,14 @@
 ## Hi there 👋
 🎓 Ai engineering student at IMTO University
-📍 Saint-Petersburg  
+
+##📍 Saint-Petersburg  
 
 ## Сейчас изучаю 
-- Git (ветки, rebase, merge, конфликты)
+- Git 
 - Архитектуру вычислительных систем
 - Языки программирования (Python / C)
 - Машинное обучение и статистику
+  
 
 
 GitHub profile is used for academic and personal development purposes
